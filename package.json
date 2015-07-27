@@ -1,0 +1,25 @@
+{
+  "name": "toy-problems",
+  "version": "1.0.0",
+  "description": "A collection of practice toy problems",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "jquery": "^2.1.4"
+  },
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eshenfield/toyProblems.git"
+  },
+  "author": "Emily Shenfield",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eshenfield/toyProblems/issues"
+  },
+  "homepage": "https://github.com/eshenfield/toyProblems#readme"
+}
