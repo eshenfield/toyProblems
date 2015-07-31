@@ -19,5 +19,5 @@ describe('maxNonAdjacentSum', function() {
     expect(maxNonAdjacentSum(testData3)).to.equal(6);
     expect(maxNonAdjacentSum(testData4)).to.equal(4);
   })
-})
+});
 
